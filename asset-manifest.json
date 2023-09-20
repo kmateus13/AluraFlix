@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AluraFlix/static/css/main.b4af6418.css",
+    "main.js": "/AluraFlix/static/js/main.f4447f55.js",
+    "index.html": "/AluraFlix/index.html",
+    "main.b4af6418.css.map": "/AluraFlix/static/css/main.b4af6418.css.map",
+    "main.f4447f55.js.map": "/AluraFlix/static/js/main.f4447f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4af6418.css",
+    "static/js/main.f4447f55.js"
+  ]
+}
